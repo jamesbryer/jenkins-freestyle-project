@@ -1,1 +1,1 @@
-echo 'Hello from run.sh!'
+echo 'This is build no. ${BUILD_NUMBER} Hello from run.sh' > run.txt
